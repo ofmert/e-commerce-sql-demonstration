@@ -1,2 +1,2 @@
 # e-commerce-sql-demonstration
-In this repository you can find a small project in which I demonstrate what can be done with SQL. I created two tables (transactions and productCatalog) and inserted some rows into both of them. Afterwards, I write some queries to answer the stated questions.
+In this repository you can find a small project in which I demonstrate what can be done with SQL. I created two tables (transactions and productCatalog) and inserted some rows into both of them. Afterwards, I wrote some queries to answer the stated questions.
